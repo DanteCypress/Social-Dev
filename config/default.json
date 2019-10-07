@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://dantecypress:d1923516@devapp-ftixh.mongodb.net/test?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://dantecypress:d1923516@devapp-ftixh.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "token"
 }
